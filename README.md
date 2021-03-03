@@ -24,6 +24,6 @@ function:
 
 ## Development Plan<br>
 Complete before March 25<br>
-1)Prepare materials before February 28
-2)March 1-20 Embedded development, cloud development
+1)Prepare materials before February 28<br>
+2)March 1-20 Embedded development, cloud development<br>
 3)Overall commissioning before March 15
